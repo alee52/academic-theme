@@ -7,6 +7,6 @@ tags:
   - Wowchemy
   - Markdown
 ---
-We analyzed two viscoelastic models commonly used in seismology to describe the relationship between slippage and pressure at the fault (crack), as well as the collective displacement of a monitored section of the Earth's crust.
+In collaboration with my advisor, Dr. Anna Mazzucato, I analyzed two viscoelastic models commonly used in seismology to describe the relationship between slippage and pressure at the fault (crack), as well as the collective displacement of a monitored section of the Earth's crust.
 
 <!--more-->
