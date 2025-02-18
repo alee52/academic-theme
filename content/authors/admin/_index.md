@@ -149,8 +149,7 @@ languages:
     percent: 100
   - name: Korean
     percent: 5
-  - name: Polish
-    percent: 5
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
