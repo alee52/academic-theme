@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pumkin.png
           filters:
-            brightness: 0.6
+            brightness: 0.35
           size: cover
           position: center
           parallax: false
