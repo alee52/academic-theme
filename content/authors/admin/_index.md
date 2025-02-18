@@ -57,7 +57,7 @@ education:
     date_start: 2019-08-01
     date_end: 2025-05-31
     summary: |
-      Thesis on Dislocation Models from Seismology. Supervised by [Prof Anna Mazzucato](https://science.psu.edu/math/people/alm24). 
+      Thesis on Dislocation Models from Seismology. Supervised by [Prof. Anna Mazzucato](https://science.psu.edu/math/people/alm24). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -67,23 +67,23 @@ education:
     date_end: 2019-05-31
     summary: |
       Projects on Poisson Boltzmann equation Finite Difference Solvers
-      # GPA: 4.0/4.0
+#      # GPA: 4.0/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Courses included:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. in Mathematics
     institution: The University of Science (a subdivision of The National University in Ho Chi Minh city)
     date_start: 2013-08-01
     date_end: 2020-05-31
-    summary: |
-      # GPA: 3.82/4.0
+    #summary: |
+      #GPA: 3.82/4.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Courses included:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
