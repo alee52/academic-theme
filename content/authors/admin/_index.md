@@ -121,7 +121,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Pandas
         description: ''
         percent: 40
         icon: circle-stack
@@ -129,18 +129,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Strength training
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Succulents
         description: ''
-        percent: 80
-        icon: camera
+        percent: 50
+        icon: plant
+      - name: Learning foreign languages
+        description: ''
+        percent: 50
+        icon: book
 
 languages:
   - name: English
