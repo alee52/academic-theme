@@ -1,5 +1,7 @@
 ---
-title: "An example journal article"
+title: "A shape derivative algorithm for
+reconstructing elastic dislocations in
+geophysics"
 authors:
 - Andrea Aspri
 - Elena Beretta
