@@ -47,17 +47,17 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Partial Differential Equations in Continuum Mechanics 
+  - Numerical Analysis
+  - Data Science and Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Mathematics 
+    institution: Pennsylvania State University
+    date_start: 2019-08-01
+    date_end: 2025-05-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Dislocation Models from Seismology. Supervised by [Prof Anna Mazzucato](https://science.psu.edu/math/people/alm24). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
