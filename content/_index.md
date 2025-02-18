@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pumkin.png
           filters:
-            brightness: 0.35
+            brightness: 0.2
           size: cover
           position: center
           parallax: false
@@ -35,8 +35,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I am an applied mathematician that aims to applied rigorous theory to applications in different branches of Science and Industry.
-        
+        I am an applied mathematician dedicated to bringing rigorous mathematical theory to real-world applications across science and industry.
         Please reach out to collaborate 😃
     design:
       columns: '1'
