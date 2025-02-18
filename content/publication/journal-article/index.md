@@ -23,15 +23,7 @@ publication_types: ["article-journal"]
 publication: "*Research in the Mathematical Sciences, 1*(1)"
 publication_short: "Res Math Sci"
 
-abstract: We consider the inverse problem of determining an elastic dislocation that models a
-seismic fault in the quasi-static regime of aseismic, creeping faults, from displacement
-measurements made at the surface of Earth. We derive both a distributed and a
-boundary shape derivative that encodes the change in a misfit functional between the
-measured and the computed surface displacement under infinitesimal movements of
-the dislocation and infinitesimal changes in the slip vector, which gives the
-displacement jump across the dislocation. We employ the shape derivative in an
-iterative reconstruction algorithm. We present some numerical test of the
-reconstruction algorithm in a simplified 2D setting.
+abstract: We consider the inverse problem of determining an elastic dislocation that models a seismic fault in the quasi-static regime of aseismic, creeping faults, from displacement measurements made at the surface of Earth. We derive both a distributed and a boundary shape derivative that encodes the change in a misfit functional between the measured and the computed surface displacement under infinitesimal movements of the dislocation and infinitesimal changes in the slip vector, which gives the displacement jump across the dislocation. We employ the shape derivative in an iterative reconstruction algorithm. We present some numerical test of the reconstruction algorithm in a simplified 2D setting.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
