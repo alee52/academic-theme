@@ -1,13 +1,14 @@
 ---
-title: PyTorch
+title: Fault detection
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://arxiv.org/abs/2410.04273
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Computational Inverse Problem
+
 
 <!--more-->
