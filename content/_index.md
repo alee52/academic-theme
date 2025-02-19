@@ -30,15 +30,15 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        I am an applied mathematician dedicated to bringing rigorous mathematical theory to real-world applications across science and industry.
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: 'My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am an applied mathematician dedicated to bringing rigorous mathematical theory to real-world applications across science and industry.
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
