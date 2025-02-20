@@ -48,8 +48,8 @@ sections:
           - project
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: compact
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
