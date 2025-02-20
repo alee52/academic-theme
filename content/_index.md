@@ -42,10 +42,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid

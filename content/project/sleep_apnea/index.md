@@ -2,6 +2,7 @@
 title: Data Analysis - Detecting Sleep Apnea with ECG (under development)
 date: 2023-10-26
 external_link: https://github.com/LaskawiecPiotr/PSG-data-analysis
+featured: true
 tags:
   - Hugo
   - Wowchemy
