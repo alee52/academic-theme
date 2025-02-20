@@ -20,4 +20,5 @@ sections:
       view: compact
       fill_image: false
       columns: 1
+      show_image: false
 ---

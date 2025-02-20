@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-In collaboration with Piotr Laskawiec, we are working on a programming project that replicates methods described in Bernardini et al.'s paper, AIOSA: An Approach to the Automatic Identification of Obstructive Sleep Apnea Events Based on Deep Learning, published in Artificial Intelligence in Medicine (2021). This project is for educational purposes, and as part of our work, we have launched a free web application where users can upload their ECG signals to receive an AI-generated analysis. Disclaimer: This tool is intended for informational purposes only and should not be considered a substitute for professional medical advice or diagnosis.
+In collaboration with Piotr Laskawiec, we are developing a project focused on the automatic identification of obstructive sleep apnea events using various machine learning and data analysis techniques. We have launched a free web application where users can upload their ECG signals to receive an AI-generated analysis.
 
 <!--more-->
